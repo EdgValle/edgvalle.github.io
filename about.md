@@ -6,6 +6,6 @@ permalink: /about/
 
 ![Picture 1](/assets/fullsize.png)
 
-Hello! I'm Game Developer, an award-winning game developer who can both program and design games. As you can see from my impressive portfolio, I've worked on lots of different games!
+Hello! I'm Edgar, a rising senior at the University of Southern California with experience in Software Engineering and Game Programing/Engineering. 
 
 If you're interested in what I can offer your company, please contact me!
