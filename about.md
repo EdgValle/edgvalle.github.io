@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-![Picture 1](/assets/edgvalle_header.png)
+![Picture 1](/assets/website-photo.png)
 
 Hello! I'm Edgar, a rising senior at the University of Southern California with experience in Software Engineering and Game Programing/Engineering. 
 
